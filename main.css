@@ -83,6 +83,7 @@ html{
 .navbar{
   height: 70px;
   font-size: 22px;
+  background-color: #B9B9B9 ;
 }
 .navbar-brand {
   cursor: pointer;
@@ -99,7 +100,7 @@ html{
   height: 2px;
   left: 0;
   bottom: 0;
-  background-color: aliceblue;
+  background-color: #424242 ;
   transition: width 0.4s ease-out;
 }
 .nav-link:hover.nav-link::after{
